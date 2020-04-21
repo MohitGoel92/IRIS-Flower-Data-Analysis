@@ -6,3 +6,6 @@ We are tasked to produce a machine learning model that classifies flowers. We ha
 
 We will be classifying the flowers using Logistic Regression, K-Nearest Neighbours, Support Vector Machine, Naive Bayes, Random Forest and XGBoost to find the optimal model.
 
+## References
+
+Dataset: https://archive.ics.uci.edu/ml/datasets/Iris
